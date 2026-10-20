@@ -1,3 +1,3 @@
 - simulador velxio:https://velxio.dev/keylercastro2005/laboratorio-2/
-- simulador worwi: 
+- simulador worwi:https://wokwi.com/projects/478434098591648769 
 - simulador Tinkercad:
