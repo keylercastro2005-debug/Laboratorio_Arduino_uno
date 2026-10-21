@@ -2,4 +2,4 @@
 
 .  simulador tinkercad :https://www.tinkercad.com/things/iquz3H33E8R-laboratorio-3
 
-.  simulador velxio:
+.  simulador velxio:https://velxio.dev/keylercastro2005/laboratorio-3/
